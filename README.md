@@ -12,6 +12,9 @@
 * * [Проводное подключение Ethernet](./2-wired.md)
 * [Проверка подключения к локалке](./3-check.md)
 * [Какие роутеры стоит покупать](./4-buyrouter.md)
-* [Как настроить роутер (OpenWRT / Zyxel)](./4-setup.md)
+* [Как настроить роутер (OpenWRT / Zyxel / Keenetic)](./4-setup.md)
+* * [Как настроить OpenWRT](./4-setup-owrt.md)
+* * [Как настроить Zyxel](./4-setup-zyxel.md)
+* * [Как настроить Keenetic](./4-setup-keenetic.md)
 * [Регистрация у провайдера](./5-reg.md)
 
