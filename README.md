@@ -16,5 +16,6 @@
 * * [Как настроить OpenWRT](./4-setup-owrt.md)
 * * [Как настроить Zyxel](./4-setup-zyxel.md)
 * * [Как настроить Keenetic](./4-setup-keenetic.md)
+* * [Как настроить Microtic](./4-setup-microtic.md)
 * [Регистрация у провайдера](./5-reg.md)
 
