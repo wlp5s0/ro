@@ -14,6 +14,7 @@
 * [Какие роутеры стоит покупать](./4-buyrouter.md)
 * [Как настроить роутер (OpenWRT / Zyxel / Keenetic)](./4-setup.md)
 * * [Как настроить OpenWRT](./4-setup-owrt.md)
+* * [Как настроить OpenWRT без GUI](./4-setup-owrt-cli.md)
 * * [Как настроить Zyxel](./4-setup-zyxel.md)
 * * [Как настроить Keenetic](./4-setup-keenetic.md)
 * * [Как настроить Microtik](./4-setup-microtik.md)
