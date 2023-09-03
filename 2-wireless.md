@@ -3,7 +3,7 @@
 В студгородке имеются точки доступа MIET-DP. К ним можно подключиться в случае отсутствия патчкорда или Ethernet разъема.
 
 Настройки аналогичны проводному.
-<center><img src="img/img1.png" width="40%"></center>
+<center><img src="img/img1.png" style="max-width:40%"></center>
 
 На андройде обычно вот так:
 

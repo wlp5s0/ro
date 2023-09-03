@@ -9,7 +9,7 @@ __Тут будет немногословно, сопоставляйте с г
 System - Clock. Date в формате Month/DD/YYYY.
 Время как обычно.
 
-<img src="img/microtic/image5.png" width="50%">
+<img src="img/microtic/image5.png" style="max-width:50%">
 
 
 ## Настройка 802.1х
@@ -19,18 +19,18 @@ Dot1X
 короче просто как на скрине
 
 
-<img src="img/microtic/image4.png" width="50%">
+<img src="img/microtic/image4.png" style="max-width:50%">
 
 
 ## Настройка интерфейса Ethernet
 
-<img src="img/microtic/image2.png" width="50%">
+<img src="img/microtic/image2.png" style="max-width:50%">
 
 Interfaces - ether1 (пронумерованы на торце).
 
 Здесь по идее по-дефолту, меняется только мак адрес если надо. Еще мак адрес можно поменять на старнице быстрой настройки.
 
-<img src="img/microtic/image3.png" width="50%">
+<img src="img/microtic/image3.png" style="max-width:50%">
 
 ## Настройка Wi-Fi и мак адреса
 
