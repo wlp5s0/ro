@@ -3,7 +3,7 @@
 
 ## Keenetic Start KN-1112
 
-<img src="img/img2.png" width="70%"/>
+<img src="img/img2.png">
 
 Плюсы:
 * Удобный интерфейс
@@ -17,7 +17,7 @@
 
 ## Xiaomi Mi Router 4A (R4AC)
 
-<img src="img/img3.png" width="70%"/>
+<img src="img/img3.png">
 
 Модельный номер: DVB4230GL (проверяйте это! китайские CN не подходят).
 
@@ -61,7 +61,7 @@
 ## Роутеры TP-Link
 
 ### Двухдиапазонные 
-<img src="img/img7.png" style="max-width:40%"/>
+<img src="img/img7.png">
 
 * TP-Link Archer A5
 * TP-Link Archer C20V5
@@ -71,7 +71,7 @@
 
 ### Однодиапазонные
 
-<img src="img/img6.png" style="max-width:40%"/>
+<img src="img/img6.png">
 
 * TP-Link TL-WR 740 v4
 * TP-Link TL-WR 740 v6
@@ -88,8 +88,8 @@
 # Не рекомендуются к покупке
 Старые роутеры Zyxel Keenetic (как на фото). Отличительный знак - брендированы Zyxel, имеются следы тараканов, ха-ха.
 
-<img src="img/img4.png" style="max-width:45%"/>
-<img src="img/img5.png" style="max-width:40%"/>
+<img src="img/img4.png" width="45%"/>
+<img src="img/img5.png" width="40%"/>
 
 Минусы:
 * Слетает время при отключении питания

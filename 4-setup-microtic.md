@@ -1,4 +1,4 @@
-# Настройка роутера Microtic
+# Настройка роутера Microtik
 
 Сделано на mikrotik rb951ui-2nd а вообще хз, оно должно быть везде одинаково. Dot1x модуль может быть выпилен из более новых прошивок RouterOS и поставляться с доп.пакетами - тут нужно смотреть.
 
@@ -9,7 +9,7 @@ __Тут будет немногословно, сопоставляйте с г
 System - Clock. Date в формате Month/DD/YYYY.
 Время как обычно.
 
-<img src="img/microtic/image5.png" style="max-width:50%">
+<img src="img/microtic/image5.png">
 
 
 ## Настройка 802.1х
@@ -19,18 +19,18 @@ Dot1X
 короче просто как на скрине
 
 
-<img src="img/microtic/image4.png" style="max-width:50%">
+<img src="img/microtic/image4.png">
 
 
 ## Настройка интерфейса Ethernet
 
-<img src="img/microtic/image2.png" style="max-width:50%">
+<img src="img/microtic/image2.png">
 
 Interfaces - ether1 (пронумерованы на торце).
 
 Здесь по идее по-дефолту, меняется только мак адрес если надо. Еще мак адрес можно поменять на старнице быстрой настройки.
 
-<img src="img/microtic/image3.png" style="max-width:50%">
+<img src="img/microtic/image3.png">
 
 ## Настройка Wi-Fi и мак адреса
 
