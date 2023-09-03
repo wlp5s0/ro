@@ -88,7 +88,7 @@
 # Не рекомендуются к покупке
 Старые роутеры Zyxel Keenetic (как на фото). Отличительный знак - брендированы Zyxel, имеются следы тараканов, ха-ха.
 
-<img src="img/img4.png" width="45%"/><img src="img/img5.png" width="40%"/>
+<img src="img/img4.png" width="40%"/><img src="img/img5.png" width="40%"/>
 
 Минусы:
 * Слетает время при отключении питания
