@@ -4,17 +4,17 @@
 
 Логинимся в админке 192.168.1.1 ([my.keenetic.net](http://my.keenetic.net))
 
-<img src="img/keen/1.png" style="max-width:70%">
+<img src="img/keen/1.png">
 
 ## Интернет - проводной
 
-<img src="img/keen2/image7.png" style="max-width:40%">
+<img src="img/keen2/image7.png" width="40%">
 
 Настраиваем как на скрине разделы:
 
 * Настройка IPv4 (автоматическая DHCP)
 
-<img src="img/keen2/image2.png" style="max-width:70%">
+<img src="img/keen2/image2.png" width="70%">
 
 __MAC адрес__
 
@@ -22,15 +22,15 @@ __MAC адрес__
 
 Если до этого было произведено подключение к ПК, и сейчас роутер подключен в то же самое гнездо Ethernet компьютера __по проводу__, то можно выбрать опцию "Взять с вашего ПК".
 
-<img src="img/keen2/image3.png" style="max-width:70%">
+<img src="img/keen2/image3.png" width="70%">
 
 Если подключение производилось с телефона или ПК через MIET-DP либо сейчас настройка производится не с проводного подключения либо с другого ноутбука, то выбираем опцию "Вручную". 
 
-<img src="img/keen2/image4.png" style="max-width:70%">
+<img src="img/keen2/image4.png" width="70%">
 
 Мак компьютера можно посмотреть в настройках через свойства интерфейса. Или для десятки "Пуск - Параметры - Сеть и Интернет" (физический адрес вроде подписано).
 
-<img src="img/image11.png" style="max-width:70%">
+<img src="img/image11.png" width="70%">
 
 
 Нажимаем "сохранить".
@@ -39,11 +39,11 @@ __MAC адрес__
 
 Заходим в управление - системные настройки (скрин на русском потерялся)
 
-<img src="img/keen/5.png" style="max-width:50%">
+<img src="img/keen/5.png" width="50%">
 
 Тут нас интересуют текущие дата и время.
 
-<img src="img/keen2/image10.png" style="max-width:70%">
+<img src="img/keen2/image10.png" width="70%">
 
 Снимаем галочку "устанавливать время автоматически" и вбиваем ручками дату и время (ДД-ММ-ГГГГ ЧЧ:ММ:СС).
 
@@ -51,11 +51,11 @@ __MAC адрес__
 
 ## Настройка Wi-Fi
 
-<img src="img/keen2/image8.png" style="max-width:40%">
+<img src="img/keen2/image8.png" width="40%">
 
 Настройка как на скрине, думаю тут понятно.
 
-<img src="img/keen2/image9.png" style="max-width:70%">
+<img src="img/keen2/image9.png" width="70%">
 
 ## Подключение
 
@@ -63,11 +63,11 @@ __MAC адрес__
 
 На дашборде должно показывать, что подключен порт WAN (0). Иначе кабель мертвый.
 
-<img src="img/keen2/image11.png" style="max-width:70%">
+<img src="img/keen2/image11.png" width="70%">
 
 __Как должно быть__
 
-<img src="img/keen/16.png" style="max-width:70%">
+<img src="img/keen/16.png" width="70%">
 
 Если все сделали правильно, в дашборде будет выдан айпи. Иначе смотрите на статусные сообщения: не подключен кабель, не пройдена авторизация и тд.
 

@@ -3,7 +3,7 @@
 
 ## Keenetic Start KN-1112
 
-<img src="img/img2.png" style="width:70%"/>
+<img src="img/img2.png" width="70%"/>
 
 Плюсы:
 * Удобный интерфейс
@@ -17,7 +17,7 @@
 
 ## Xiaomi Mi Router 4A (R4AC)
 
-<img src="img/img3.png" style="width:70%"/>
+<img src="img/img3.png" width="70%"/>
 
 Модельный номер: DVB4230GL (проверяйте это! китайские CN не подходят).
 
