@@ -2,27 +2,20 @@
 
 Для подключения в комнате нужно найти провод от провайдера.
 
-<img src="./img/6-wire/1.png" height="250px">
-<img src="./img/6-wire/5.png" height="250px">
-<img src="./img/6-wire/3.png" height="250px">
+<img src="./img/6-wire/1.png" height="250px"><img src="./img/6-wire/5.png" height="250px"><img src="./img/6-wire/3.png" height="250px">
 <img src="./img/6-wire/7.png" height="250px">
 
 Как правило, это провода, торчащие из дверного косяка. Далее они могут быть обмотаны вокруг светильника над дверью, закинуты на шкаф, за шкаф, под шкаф, либо аккуратно убраны в кабель-канал.
 
 Наша задача - найти их конец.
 
-<img src="./img/6-wire/2.png" height="250px">
-<img src="./img/6-wire/4.png" height="250px">
-<img src="./img/6-wire/8.png?" height="250px">
+<img src="./img/6-wire/2.png" height="250px"><img src="./img/6-wire/4.png" height="250px"><img src="./img/6-wire/8.png?" height="250px">
 
 Окончанием кабеля будет так называемая LAN розетка - коробочка с разъемом под патч-корд. Изредка они обжаты сразу под разъем. Периодически их еще и обрезают под корешок - это вообще беда.
 
 Далее нас интересует найти патч-корд. Это кабель витая пара, обжатый с каждой стороны разъемами 8p8c (RJ45). Они часто валяются на шкафах, в шкафах, под кроватями и также иногда замурованы в кабель-каналы. Иногда их приходится покупать новые.
 
-<img src="./img/6-wire/6.png" height="250px">
-<img src="./img/6-wire/9.png" height="250px">
-<img src="./img/6-wire/10.png" height="250px">
-<img src="./img/6-wire/11.png" height="250px">
+<img src="./img/6-wire/6.png" height="250px"><img src="./img/6-wire/9.png" height="250px"><img src="./img/6-wire/10.png" height="250px"><img src="./img/6-wire/11.png" height="250px">
 
 Итак, мы имеем патчкорд и розетку. Думали, всё? Ага, щас. Нужно найти рабочую.
 
