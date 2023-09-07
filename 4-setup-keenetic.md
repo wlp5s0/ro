@@ -8,11 +8,11 @@
 
 Логинимся в админке 192.168.1.1 ([my.keenetic.net](http://my.keenetic.net))
 
-<center><img src="img/keen/1.png"></center>
+<p align="center"><img src="img/keen/1.png"></p>
 
 ## Интернет - проводной
 
-<center><img src="img/keen2/image7.png"></center>
+<p align="center"><img src="img/keen2/image7.png"></p>
 
 Настраиваем как на скрине разделы:
 
@@ -24,19 +24,19 @@
 * "По умолчанию" выбирается тогда, когда тариф к онплюсу не подключался, и вряд ли потребуется подключать компьютер напрямую.
 
 
-<center><img src="img/keen2/image2.png"></center>
+<p align="center"><img src="img/keen2/image2.png"></p>
 
 * Если до этого было произведено подключение к ПК, и сейчас роутер подключен в то же самое гнездо Ethernet компьютера __по проводу__, то можно выбрать опцию "Взять с вашего ПК".
 
-<center><img src="img/keen2/image3.png"></center>
+<p align="center"><img src="img/keen2/image3.png"></p>
 
 * Если подключение производилось с телефона или ПК через MIET-DP либо сейчас настройка производится не с проводного подключения либо с другого ноутбука, то выбираем опцию "Вручную". 
 
-<center><img src="img/keen2/image4.png"></center>
+<p align="center"><img src="img/keen2/image4.png"></p>
 
 Мак компьютера можно посмотреть в настройках через свойства интерфейса. Или для десятки "Пуск - Параметры - Сеть и Интернет" (физический адрес вроде подписано).
 
-<center><img src="img/image11.png"></center>
+<p align="center"><img src="img/image11.png"></p>
 
 И отсюда этот мак адрес пишем в роутер.
 
@@ -44,7 +44,7 @@
 
 Сюда пишем логин пароль ОРИОКС (не от онплюса) и выбираем метод как на скрине.
 
-<center><img src="img/keen2/image6.png"></center>
+<p align="center"><img src="img/keen2/image6.png"></p>
 
 Нажимаем "сохранить".
 
@@ -52,11 +52,11 @@
 
 Заходим в управление - системные настройки (скрин на русском потерялся)
 
-<center><img src="img/keen/5.png"></center>
+<p align="center"><img src="img/keen/5.png"></p>
 
 Тут нас интересуют текущие дата и время.
 
-<center><img src="img/keen2/image10.png" ></center>
+<p align="center"><img src="img/keen2/image10.png" ></p>
 
 Снимаем галочку "устанавливать время автоматически" и вбиваем ручками дату и время (ДД-ММ-ГГГГ ЧЧ:ММ:СС).
 
@@ -64,11 +64,11 @@
 
 ## Настройка Wi-Fi
 
-<center><img src="img/keen2/image8.png"></center>
+<p align="center"><img src="img/keen2/image8.png"></p>
 
 Настройка как на скрине, думаю тут понятно.
 
-<center><img src="img/keen2/image9.png"></center>
+<p align="center"><img src="img/keen2/image9.png"></p>
 
 ## Подключение
 
@@ -78,25 +78,25 @@
 
 По большей части проверку можно осуществить на влкадке "Системный монитор".
 
-<center><img src="img/keen2/image13.png"></center>
+<p align="center"><img src="img/keen2/image13.png"></p>
 
 Во-первых, при наличии подключенного кабеля должен гореть индикатор портов в разделе "Сетевые порты" (синий - провайдер, серые - локалка). В данном случае 100М Full Duplex, как и должно быть.
 
-<center><img src="img/keen2/image11.png"></center>
+<p align="center"><img src="img/keen2/image11.png"></p>
 
 Далее имеет смысл удостовериться, что стоит сегодняшняя дата. (да, поновее скриншота под рукой не было)
 
-<center><img src="img/keen2/image12.png"></center>
+<p align="center"><img src="img/keen2/image12.png"></p>
 
 Следующим этапом смотрим на статус подключения. 
 
-<center><img src="img/keen2/image14.png"></center>
+<p align="center"><img src="img/keen2/image14.png"></p>
 
 Сразу раскрываем информацию на "подробнее". 
 
 Если пишет "Проверьте кабель", возвращаемся на два шага назад. 
 
-<center><img src="img/keen2/image15.png"></center>
+<p align="center"><img src="img/keen2/image15.png"></p>
 
 Если нет подключения и нет IP адреса, проверяем корректность введённых данных от ориокса.
 
@@ -104,12 +104,12 @@
 
 Если выдан IP адрес вида 172.18.\*\*.\*\*, но роутер пишет "Без доступа в сеть", значит получен IP адрес, но к нему не привязан тариф.
 
-<center><img src="img/keen2/image16.png?"></center>
-<center><img src="img/keen2/image18.png?"></center>
+<p align="center"><img src="img/keen2/image16.png?"></p>
+<p align="center"><img src="img/keen2/image18.png?"></p>
 
 Если пишет просто "Подключено", то победа.
 
-<center><img src="img/keen2/image17.png?"></center>
+<p align="center"><img src="img/keen2/image17.png?"></p>
 
 Если интернета нет, но открывается Ориокс, то варианта два:
 
