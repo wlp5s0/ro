@@ -19,7 +19,7 @@
 Принимаем лицензионное соглашение и задаем пароль.
 
 
-<p align="center"><img src="img/keen2/21.png" width="70%"></p>
+<p align="center"><img src="img/keen2/21.png" width="70%" style="border: .5px solid;" ></p>
 
 
 ## Вход
