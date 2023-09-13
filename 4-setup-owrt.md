@@ -48,18 +48,63 @@ __Заметка:__ в ранних версиях OpenWRT подвкладки 
 
 Нам доступны radio0 – 2.4 ГГц модем и radio1 – 5 ГГц модем (если роутер двухдиапазонный). При каждом из них выключенные ненастроенные точки доступа с названием OpenWRT. Каждую из них редактируем через Edit.
 
+__Сначала настроим 2.4 ГГц сеть (radio0)__
+
 <p align="center"><img src="img/owrt/image18.png"></p>
 
-__General Setup (тут меняем SSID)__
+Нажимаем Edit напротив сети, у которой изначально название OpenWrt. Раздел General Setup можно пока не трогать, меняем в разделе Interface Configuration. Здесь можно ручками выставить канал 2.4 ГГц.
+
+<p align="center"><img src="img/owrt/image21.png"></p>
+
+
+__1. General Setup (тут меняем SSID)__
 
 <p align="center"><img src="img/owrt/image12.png"></p>
 
-__Wireless Security (тут пароль и шифрование)__
+__2. Wireless Security (тут пароль и шифрование)__
 
 <p align="center"><img src="img/owrt/image13.png" ></p>
 
+Сохраняем настройки: Save. Можно сразу нажать Enable выше, и сеть автоматически применит настройки и включится. 
 
-Аналогично настраиваем 5 ГГц.
+<p align="center"><img src="img/owrt/image20.png"></p>
+
+
+__Настройки для 5 ГГц (radio1) чуть сложнее__
+
+<p align="center"><img src="img/owrt/image19.png"></p>
+
+__3. General Setup (тут меняем SSID)__
+
+<p align="center"><img src="img/owrt/image12.png"></p>
+
+__4. Wireless Security (тут пароль и шифрование)__
+
+<p align="center"><img src="img/owrt/image13.png" ></p>
+
+__5. Advanced Settings в Device Configuration__
+Здесь необходимо выставить Contry Code RU
+<p align="center"><img src="img/owrt/image22.png" ></p>
+
+Теперь нужно сохранить настройки через Save и затем Save&Apply. Но на этом мы не закончили.
+
+<p align="center"><img src="img/owrt/image20.png"></p>
+
+<p align="center"><img src="img/owrt/image23.png"></p>
+
+Завершающим элементом будет выбрать вручную канал, на котором мы будем работать. Списки доступных каналов меняются не сразу, а после применения кода страны. Поэтому возвращаемся в настройки 5 ГГц Wi-Fi.
+
+__6. General Setup в Device Configuration__
+
+И выбираем здесь канал для работы 5 ГГц. Только после установки кода страны они будут работать все, а не только 36.
+
+<p align="center"><img src="img/owrt/image24.png"></p>
+
+Дальше можно сохранять и включать сеть.
+
+
+__Вот так это будет выглядеть__
+
 
 <p align="center"><img src="img/owrt/image14.png"></p>
 
