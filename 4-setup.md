@@ -1,16 +1,27 @@
 # Настройка роутера
 
-TP-Link, Xiaomi, D-Link:
 * [Роутер на OpenWRT](./4-setup-owrt.md)
+    - роутеры с современным интерфейсом OpenWRT
+    - TP-Link, Xiaomi, обычно двухдиапазонные
+    - Версия OpenWRT 22.03 или схожая
 
-TP-Link TL-WR841Nv14, возможно некоторые другие модели.
+* [Роутер на OpenWRT (legacy)](./4-setup-owrt.md)
+    - маломощные роутеры с интерфейсом OpenWRT
+    - TP-Link, D-Link, обычно однодиапазонные
+    - Версия OpenWRT 19.06 или младше
+
 * [Роутер на OpenWRT без GUI](./4-setup-owrt-cli.md)
+    - роутеры без графического интерфейса
+    - TP-Link TL-WR841 v14 и прочие
+    - либо роутеры со сломанным модулем авторизации 
 
-Zyxel Keenetic Start, Zyxel Keenetic 4G.
 * [Роутер Zyxel](./4-setup-zyxel.md)
+    - Устаревшие роутеры Zyxel Keenetic
+    - Zyxel Keenetic Start, Lite, 4G, Extra
 
-Keenetic Start KN-1110, Keenetic Air KN-1613.
 * [Роутер Keenetic](./4-setup-keenetic.md)
+    - Современные роутеры Keenetic
+    - Keenetic Start, Air, Base, Extra
 
-Microtic hAP и прочие, их единицы в общаге.
 * [Роутер Microtik](./4-setup-microtik.md)
+    - У нас их в общаге буквально единицы
