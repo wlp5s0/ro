@@ -19,5 +19,5 @@
     - Устаревшие роутеры Zyxel Keenetic
     - Zyxel Keenetic Start, Lite, 4G, Extra
 
-* [Роутер Microtik](./4-setup-microtik.md)
+* [Роутер Microtik](./4-setup-mikrotik.md)
     - Может отличаться от модели к модели
