@@ -1,27 +1,23 @@
 # Настройка роутера
 
-* [Роутер на OpenWRT](./4-setup-owrt.md)
-    - роутеры с современным интерфейсом OpenWRT
-    - TP-Link, Xiaomi, обычно двухдиапазонные
-    - Версия OpenWRT 22.03 или схожая
+* [Роутер на OpenWRT (актуальная прошивка)](./4-setup-owrt.md)
+    - роутеры с современным интерфейсом OpenWRT v22.03 и выше
+    - TP-Link Archer, Xiaomi R4AC, все двухдиапазонные
 
-* [Роутер на OpenWRT (legacy)](./4-setup-owrt.md)
-    - маломощные роутеры с интерфейсом OpenWRT
-    - TP-Link, D-Link, обычно однодиапазонные
-    - Версия OpenWRT 19.06 или младше
+* [Роутер на OpenWRT (старая прошивка)](./4-setup-owrt.md)
+    - более ранние роутеры с интерфейсом OpenWRT v19.06 или младше
+    - TP-Link 841, 740 и парочка странных D-Link
 
 * [Роутер на OpenWRT без GUI](./4-setup-owrt-cli.md)
-    - роутеры без графического интерфейса
-    - TP-Link TL-WR841 v14 и прочие
-    - либо роутеры со сломанным модулем авторизации 
-
-* [Роутер Zyxel](./4-setup-zyxel.md)
-    - Устаревшие роутеры Zyxel Keenetic
-    - Zyxel Keenetic Start, Lite, 4G, Extra
+    - TP-Link TL-WR841 v14
 
 * [Роутер Keenetic](./4-setup-keenetic.md)
     - Современные роутеры Keenetic
     - Keenetic Start, Air, Base, Extra
 
+* [Роутер Zyxel](./4-setup-zyxel.md)
+    - Устаревшие роутеры Zyxel Keenetic
+    - Zyxel Keenetic Start, Lite, 4G, Extra
+
 * [Роутер Microtik](./4-setup-microtik.md)
-    - У нас их в общаге буквально единицы
+    - Может отличаться от модели к модели
